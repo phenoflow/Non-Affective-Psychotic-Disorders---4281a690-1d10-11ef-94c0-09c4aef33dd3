@@ -1,0 +1,111 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/reactive-non-affective-psychotic-disorders---primary.py
+inputModule3:
+  class: File
+  path: python/non-affective-psychotic-disorders-hallucination---primary.py
+inputModule4:
+  class: File
+  path: python/persistent-non-affective-psychotic-disorders---primary.py
+inputModule5:
+  class: File
+  path: python/non-affective-psychotic-disorders-schizophrenifrm---primary.py
+inputModule6:
+  class: File
+  path: python/non-affective-psychotic-disorders-folie---primary.py
+inputModule7:
+  class: File
+  path: python/acute-non-affective-psychotic-disorders---primary.py
+inputModule8:
+  class: File
+  path: python/transient-non-affective-psychotic-disorders---primary.py
+inputModule9:
+  class: File
+  path: python/non-affective-psychotic-disorders-delusion---primary.py
+inputModule10:
+  class: File
+  path: python/non-affective-psychotic-disorders-delirante---primary.py
+inputModule11:
+  class: File
+  path: python/non-affective-psychotic-disorders-remission---primary.py
+inputModule12:
+  class: File
+  path: python/psychogenic-non-affective-psychotic-disorders---primary.py
+inputModule13:
+  class: File
+  path: python/non-affective-psychotic-disorders-paranoia---primary.py
+inputModule14:
+  class: File
+  path: python/non-affective-psychotic-disorders-insight---primary.py
+inputModule15:
+  class: File
+  path: python/non-affective-psychotic-disorders-episode---primary.py
+inputModule16:
+  class: File
+  path: python/non-affective-psychotic-disorders-oneirophrenia---primary.py
+inputModule17:
+  class: File
+  path: python/non-affective-psychotic-disorders-psychoses---primary.py
+inputModule18:
+  class: File
+  path: python/nonorganic-non-affective-psychotic-disorders---primary.py
+inputModule19:
+  class: File
+  path: python/atypical-non-affective-psychotic-disorders---primary.py
+inputModule20:
+  class: File
+  path: python/non-affective-psychotic-disorders-induced---primary.py
+inputModule21:
+  class: File
+  path: python/non-affective-psychotic-disorders-psychosis---primary.py
+inputModule22:
+  class: File
+  path: python/brief-non-affective-psychotic-disorders---primary.py
+inputModule23:
+  class: File
+  path: python/non-affective-psychotic-disorders-querulan---primary.py
+inputModule24:
+  class: File
+  path: python/non-affective-psychotic-disorders-capgras---primary.py
+inputModule25:
+  class: File
+  path: python/cycloid-non-affective-psychotic-disorders---primary.py
+inputModule26:
+  class: File
+  path: python/visual-non-affective-psychotic-disorders---primary.py
+inputModule27:
+  class: File
+  path: python/non-affective-psychotic-disorders-resolved---primary.py
+inputModule28:
+  class: File
+  path: python/non-affective-psychotic-disorders-cotard---primary.py
+inputModule29:
+  class: File
+  path: python/non-affective-psychotic-disorders-paraphrenia---primary.py
+inputModule30:
+  class: File
+  path: python/nonaffective-psychotic-disorders---primary.py
+inputModule31:
+  class: File
+  path: python/non-affective-psychotic-disorders-persecution---primary.py
+inputModule32:
+  class: File
+  path: python/catatonic-non-affective-psychotic-disorders---primary.py
+inputModule33:
+  class: File
+  path: python/non-affective-psychotic-disorders-undifferentiated---primary.py
+inputModule34:
+  class: File
+  path: python/subchronic-non-affective-psychotic-disorders---primary.py
+inputModule35:
+  class: File
+  path: python/non-affective-psychotic-disorders-schizotypal---primary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
